@@ -18,8 +18,7 @@ class Filter_Plugins extends Transformations_Abstract {
 	const PLUGIN_IS_ACTIVATED = 'activated';
 
 	public function transform( array $home_screen_data ): array {
-		$home_screen_data['add_ons']['repeater'] = $this->get_add_ons_installation_status( $data['add_ons'] ?? [] );
-
+		$home_screen_data['add_ons']['repeater'] = $this->get_add_ons_installation_status( $home_screen_data['add_ons']['repeater'] );
 
 		return $home_screen_data;
 	}
