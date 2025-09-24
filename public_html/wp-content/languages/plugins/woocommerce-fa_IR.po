@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 13:21:06+0000\n"
+"PO-Revision-Date: 2025-09-23 17:21:34+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,6 +33,14 @@ msgstr "آیا می‌خواهید از موجود شدن مجدد این محص
 #: templates/emails/customer-stock-notification-verify.php:68
 msgid "You have received this message because your e-mail address was used to sign up for stock notifications on our store. Wasn't you? Please get in touch with us if you keep receiving these messages."
 msgstr "شما این پیام را دریافت کرده‌اید زیرا از آدرس ایمیل شما برای ثبت‌نام در آگاه‌سازی‌های موجودی در فروشگاه ما استفاده شده است. اینطور نیست؟ اگر مرتبا این پیام‌ها را دریافت می‌کنید، لطفا با ما تماس بگیرید."
+
+#: templates/single-product/photoswipe.php:23
+msgid "Full screen image"
+msgstr "تصویر تمام صفحه"
+
+#: templates/single-product/back-in-stock-form.php:54
+msgid "Notify me"
+msgstr "به من اطلاع بده"
 
 #. translators: %1$s placeholder is the unsubscribe link, %2$s placeholder is
 #. the Unsubscribe text link.
@@ -120,6 +128,32 @@ msgstr "جستجوی آگاه‌سازی‌ها"
 #: src/Internal/StockNotifications/Admin/Templates/html-admin-notification-edit.php:151
 msgid "Product not found."
 msgstr "محصول پیدا نشد."
+
+#: src/Internal/StockNotifications/Admin/Templates/html-admin-notification-create.php:19
+#: src/Internal/StockNotifications/Admin/Templates/html-admin-notification-edit.php:20
+msgid "View All"
+msgstr "مشاهده همه"
+
+#. translators: %s user email.
+#: src/Internal/StockNotifications/Admin/NotificationEditPage.php:109
+msgid "Verification email sent to \"%s\"."
+msgstr "ایمیل تأیید به \"%s\" ارسال شد."
+
+#: src/Internal/StockNotifications/Admin/NotificationCreatePage.php:44
+#: src/Internal/StockNotifications/Admin/NotificationCreatePage.php:56
+msgid "Please select a customer."
+msgstr "لطفا یک مشتری انتخاب کنید."
+
+#: src/Internal/StockNotifications/Admin/NotificationCreatePage.php:39
+msgid "Please select a product."
+msgstr "لطفا یک محصول انتخاب کنید."
+
+#: src/Internal/StockNotifications/Admin/ListTable.php:254
+#: src/Internal/StockNotifications/Admin/Templates/html-admin-notification-edit.php:175
+#: src/Internal/StockNotifications/Admin/Templates/html-admin-notification-edit.php:199
+msgctxt "list table date hover format"
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
 
 #: assets/client/blocks/single-product/block.json
 msgctxt "block title"
