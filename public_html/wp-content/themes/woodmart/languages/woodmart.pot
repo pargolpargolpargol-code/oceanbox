@@ -32007,7 +32007,7 @@ msgid "Availability"
 msgstr ""
 
 #: inc/integrations/woocommerce/modules/compare/class-ui.php:58
-msgid "Add to compare"
+msgid "افزودن به لیست مقایسه"
 msgstr ""
 
 #: inc/integrations/woocommerce/modules/compare/class-ui.php:212
@@ -36074,7 +36074,7 @@ msgstr ""
 
 #: inc/modules/layouts/elementor/single-product/class-compare-button.php:39
 #: inc/modules/layouts/wpb/maps/single-product/compare-button.php:30
-msgid "Add to compare button"
+msgid "افزودن به لیست مقایسه button"
 msgstr ""
 
 #: inc/modules/layouts/elementor/single-product/class-content.php:38
@@ -41617,7 +41617,7 @@ msgstr ""
 #: inc/integrations/gutenberg/build/layouts/sp-compare-btn/block.json
 #: inc/integrations/gutenberg/src/layouts/sp-compare-btn/block.json
 msgctxt "block title"
-msgid "Add to compare button"
+msgid "افزودن به لیست مقایسه button"
 msgstr ""
 
 #: inc/integrations/gutenberg/build/layouts/sp-content/block.json

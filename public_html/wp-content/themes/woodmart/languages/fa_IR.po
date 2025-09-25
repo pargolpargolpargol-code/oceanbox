@@ -25165,7 +25165,7 @@ msgstr "برندهای محصول"
 
 #: inc/modules/layouts/elementor/single-product/class-compare-button.php:39
 #: inc/modules/layouts/wpb/maps/single-product/compare-button.php:30
-msgid "Add to compare button"
+msgid "افزودن به لیست مقایسه button"
 msgstr "افزودن به دکمه مقایسه"
 
 #: inc/modules/layouts/elementor/single-product/class-content.php:38
