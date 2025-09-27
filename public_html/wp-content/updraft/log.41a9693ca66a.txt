@@ -1,0 +1,768 @@
+0000.001 (0) Opened log file at time: Fri, 26 Sep 2025 16:02:47 +0000 on https://oceanbox.ir
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 7.4.33 (litespeed, Linux ircln19.ihglobaldns.com 3.10.0-962.3.2.lve1.5.75.el7.x86_64 #1 SMP Wed Nov 9 14:38:37 UTC 2022 x86_64) MySQL: 10.3.39-MariaDB-cll-lve (max packet size=1073741824) WPLANG: fa_IR Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 49.1M | 26M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.023 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.026 (0) Semaphore (fd, 0ZyaMv3j_options) being initialised
+0000.031 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.034 (0) Set semaphore last lock (fd) time to 2025-09-26 16:02:47
+0000.036 (0) Semaphore lock (fd) complete
+0000.042 (0) Backup run: resumption=0, nonce=41a9693ca66a, file_nonce=41a9693ca66a begun at=1758902567 (0s ago), job type=backup
+0000.049 (0) Scheduling a resumption (1) after 300 seconds (1758902867) in case this run gets aborted
+0000.070 (0) Checking if we have a zip executable available
+0000.073 (0) Creation of backups of directories: beginning
+0000.080 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.471 (0) Total entities for the zip file: 3075 directories, 14682 files (0 skipped as non-modified), 205.1 MB
+0002.506 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 76 (76) files added so far); re-opening (prior size: 0 KB)
+0002.802 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 100 files added (on-disk size: 649.3 KB)
+0002.820 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 200 files added (on-disk size: 649.3 KB)
+0002.846 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 300 files added (on-disk size: 649.3 KB)
+0002.863 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 400 files added (on-disk size: 649.3 KB)
+0002.881 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 500 files added (on-disk size: 649.3 KB)
+0002.897 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 600 files added (on-disk size: 649.3 KB)
+0002.913 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 700 files added (on-disk size: 649.3 KB)
+0002.929 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 800 files added (on-disk size: 649.3 KB)
+0002.945 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 900 files added (on-disk size: 649.3 KB)
+0002.962 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1000 files added (on-disk size: 649.3 KB)
+0002.980 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.9 MB, 14682 files batched, 1001 (1077) added so far); re-opening (prior size: 649.3 KB)
+0006.140 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1100 files added (on-disk size: 6232.7 KB)
+0006.157 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1200 files added (on-disk size: 6232.7 KB)
+0006.173 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1300 files added (on-disk size: 6232.7 KB)
+0006.191 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1400 files added (on-disk size: 6232.7 KB)
+0006.207 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1500 files added (on-disk size: 6232.7 KB)
+0006.229 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1600 files added (on-disk size: 6232.7 KB)
+0006.246 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1700 files added (on-disk size: 6232.7 KB)
+0006.262 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1800 files added (on-disk size: 6232.7 KB)
+0006.279 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 1900 files added (on-disk size: 6232.7 KB)
+0006.296 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2000 files added (on-disk size: 6232.7 KB)
+0006.311 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.1 MB, 14682 files batched, 1001 (2078) added so far); re-opening (prior size: 6232.7 KB)
+0008.299 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2100 files added (on-disk size: 9300.5 KB)
+0008.322 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2200 files added (on-disk size: 9300.5 KB)
+0008.344 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2300 files added (on-disk size: 9300.5 KB)
+0008.361 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2400 files added (on-disk size: 9300.5 KB)
+0008.379 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2500 files added (on-disk size: 9300.5 KB)
+0008.396 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2600 files added (on-disk size: 9300.5 KB)
+0008.413 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2700 files added (on-disk size: 9300.5 KB)
+0008.431 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2800 files added (on-disk size: 9300.5 KB)
+0008.449 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 2900 files added (on-disk size: 9300.5 KB)
+0008.469 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3000 files added (on-disk size: 9300.5 KB)
+0008.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.1 MB, 14682 files batched, 1001 (3079) added so far); re-opening (prior size: 9300.5 KB)
+0010.213 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3100 files added (on-disk size: 11945.8 KB)
+0010.238 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3200 files added (on-disk size: 11945.8 KB)
+0010.264 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3300 files added (on-disk size: 11945.8 KB)
+0010.291 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3400 files added (on-disk size: 11945.8 KB)
+0010.312 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3500 files added (on-disk size: 11945.8 KB)
+0010.330 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3600 files added (on-disk size: 11945.8 KB)
+0010.347 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3700 files added (on-disk size: 11945.8 KB)
+0010.364 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3800 files added (on-disk size: 11945.8 KB)
+0010.381 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 3900 files added (on-disk size: 11945.8 KB)
+0010.399 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4000 files added (on-disk size: 11945.8 KB)
+0010.412 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.4 MB, 14682 files batched, 1001 (4080) added so far); re-opening (prior size: 11945.8 KB)
+0012.706 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4100 files added (on-disk size: 20537.9 KB)
+0012.726 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4200 files added (on-disk size: 20537.9 KB)
+0012.753 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4300 files added (on-disk size: 20537.9 KB)
+0012.772 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4400 files added (on-disk size: 20537.9 KB)
+0012.798 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4500 files added (on-disk size: 20537.9 KB)
+0012.816 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4600 files added (on-disk size: 20537.9 KB)
+0012.825 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4700 files added (on-disk size: 20537.9 KB)
+0012.835 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4800 files added (on-disk size: 20537.9 KB)
+0012.845 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 4900 files added (on-disk size: 20537.9 KB)
+0012.855 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5000 files added (on-disk size: 20537.9 KB)
+0012.863 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.9 MB, 14682 files batched, 1001 (5081) added so far); re-opening (prior size: 20537.9 KB)
+0014.203 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5100 files added (on-disk size: 22319.7 KB)
+0014.219 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5200 files added (on-disk size: 22319.7 KB)
+0014.236 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5300 files added (on-disk size: 22319.7 KB)
+0014.253 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5400 files added (on-disk size: 22319.7 KB)
+0014.270 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5500 files added (on-disk size: 22319.7 KB)
+0014.287 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5600 files added (on-disk size: 22319.7 KB)
+0014.304 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5700 files added (on-disk size: 22319.7 KB)
+0014.321 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5800 files added (on-disk size: 22319.7 KB)
+0014.338 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 5900 files added (on-disk size: 22319.7 KB)
+0014.354 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6000 files added (on-disk size: 22319.7 KB)
+0014.367 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.8 MB, 14682 files batched, 1001 (6082) added so far); re-opening (prior size: 22319.7 KB)
+0015.938 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6100 files added (on-disk size: 24046.7 KB)
+0015.953 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6200 files added (on-disk size: 24046.7 KB)
+0015.967 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6300 files added (on-disk size: 24046.7 KB)
+0015.976 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6400 files added (on-disk size: 24046.7 KB)
+0015.985 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6500 files added (on-disk size: 24046.7 KB)
+0015.994 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6600 files added (on-disk size: 24046.7 KB)
+0016.004 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6700 files added (on-disk size: 24046.7 KB)
+0016.013 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6800 files added (on-disk size: 24046.7 KB)
+0016.017 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 14682 files batched, 759 (6841) added so far); re-opening (prior size: 24046.7 KB)
+0019.580 (0) A useful amount of data was added after this amount of zip processing: 4.1 s (normalised: 4.1 s, rate: 6292.3 KB/s)
+0019.583 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.0745708942413, normalised_time=4.0684441101785, max_time=19.580727100372, data points known=1, old_max_bytes=26214400, new_max_bytes=75699259)
+0019.606 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 6900 files added (on-disk size: 29306 KB)
+0019.616 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7000 files added (on-disk size: 29306 KB)
+0019.625 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7100 files added (on-disk size: 29306 KB)
+0019.635 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7200 files added (on-disk size: 29306 KB)
+0019.644 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7300 files added (on-disk size: 29306 KB)
+0019.653 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7400 files added (on-disk size: 29306 KB)
+0019.663 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7500 files added (on-disk size: 29306 KB)
+0019.683 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7600 files added (on-disk size: 29306 KB)
+0019.707 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7700 files added (on-disk size: 29306 KB)
+0019.730 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7800 files added (on-disk size: 29306 KB)
+0019.739 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.5 MB, 14682 files batched, 1001 (7842) added so far); re-opening (prior size: 29306 KB)
+0024.797 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 7900 files added (on-disk size: 38489.4 KB)
+0024.814 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8000 files added (on-disk size: 38489.4 KB)
+0024.831 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8100 files added (on-disk size: 38489.4 KB)
+0024.848 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8200 files added (on-disk size: 38489.4 KB)
+0024.865 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8300 files added (on-disk size: 38489.4 KB)
+0024.884 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8400 files added (on-disk size: 38489.4 KB)
+0024.901 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8500 files added (on-disk size: 38489.4 KB)
+0024.917 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8600 files added (on-disk size: 38489.4 KB)
+0024.935 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8700 files added (on-disk size: 38489.4 KB)
+0024.949 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8800 files added (on-disk size: 38489.4 KB)
+0024.956 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.1 MB, 14682 files batched, 1001 (8843) added so far); re-opening (prior size: 38489.4 KB)
+0028.654 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 8900 files added (on-disk size: 47264.1 KB)
+0028.672 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9000 files added (on-disk size: 47264.1 KB)
+0028.691 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9100 files added (on-disk size: 47264.1 KB)
+0028.710 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9200 files added (on-disk size: 47264.1 KB)
+0028.729 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9300 files added (on-disk size: 47264.1 KB)
+0028.746 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9400 files added (on-disk size: 47264.1 KB)
+0028.768 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9500 files added (on-disk size: 47264.1 KB)
+0028.786 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9600 files added (on-disk size: 47264.1 KB)
+0028.803 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9700 files added (on-disk size: 47264.1 KB)
+0028.820 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9800 files added (on-disk size: 47264.1 KB)
+0028.829 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.9 MB, 14682 files batched, 1001 (9844) added so far); re-opening (prior size: 47264.1 KB)
+0030.206 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 9900 files added (on-disk size: 48753.6 KB)
+0030.217 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10000 files added (on-disk size: 48753.6 KB)
+0030.232 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10100 files added (on-disk size: 48753.6 KB)
+0030.247 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10200 files added (on-disk size: 48753.6 KB)
+0030.261 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10300 files added (on-disk size: 48753.6 KB)
+0030.276 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10400 files added (on-disk size: 48753.6 KB)
+0030.295 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10500 files added (on-disk size: 48753.6 KB)
+0030.315 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10600 files added (on-disk size: 48753.6 KB)
+0030.335 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10700 files added (on-disk size: 48753.6 KB)
+0030.354 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10800 files added (on-disk size: 48753.6 KB)
+0030.365 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 14682 files batched, 1001 (10845) added so far); re-opening (prior size: 48753.6 KB)
+0032.433 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 10900 files added (on-disk size: 50734.2 KB)
+0032.451 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11000 files added (on-disk size: 50734.2 KB)
+0032.469 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11100 files added (on-disk size: 50734.2 KB)
+0032.486 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11200 files added (on-disk size: 50734.2 KB)
+0032.503 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11300 files added (on-disk size: 50734.2 KB)
+0032.522 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11400 files added (on-disk size: 50734.2 KB)
+0032.543 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11500 files added (on-disk size: 50734.2 KB)
+0032.561 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11600 files added (on-disk size: 50734.2 KB)
+0032.578 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11700 files added (on-disk size: 50734.2 KB)
+0032.595 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11800 files added (on-disk size: 50734.2 KB)
+0032.604 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.6 MB, 14682 files batched, 1001 (11846) added so far); re-opening (prior size: 50734.2 KB)
+0035.699 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 11900 files added (on-disk size: 54665.5 KB)
+0035.709 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12000 files added (on-disk size: 54665.5 KB)
+0035.718 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12100 files added (on-disk size: 54665.5 KB)
+0035.726 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12200 files added (on-disk size: 54665.5 KB)
+0035.736 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12300 files added (on-disk size: 54665.5 KB)
+0035.745 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12400 files added (on-disk size: 54665.5 KB)
+0035.755 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12500 files added (on-disk size: 54665.5 KB)
+0035.764 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12600 files added (on-disk size: 54665.5 KB)
+0035.774 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12700 files added (on-disk size: 54665.5 KB)
+0035.784 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12800 files added (on-disk size: 54665.5 KB)
+0035.791 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.3 MB, 14682 files batched, 1001 (12847) added so far); re-opening (prior size: 54665.5 KB)
+0039.440 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 12900 files added (on-disk size: 61531.9 KB)
+0039.451 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13000 files added (on-disk size: 61531.9 KB)
+0039.461 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13100 files added (on-disk size: 61531.9 KB)
+0039.471 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13200 files added (on-disk size: 61531.9 KB)
+0039.480 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13300 files added (on-disk size: 61531.9 KB)
+0039.489 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13400 files added (on-disk size: 61531.9 KB)
+0039.499 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13500 files added (on-disk size: 61531.9 KB)
+0039.507 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13600 files added (on-disk size: 61531.9 KB)
+0039.514 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13700 files added (on-disk size: 61531.9 KB)
+0039.522 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13800 files added (on-disk size: 61531.9 KB)
+0039.526 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.3 MB, 14682 files batched, 1001 (13848) added so far); re-opening (prior size: 61531.9 KB)
+0042.916 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 13900 files added (on-disk size: 65694.3 KB)
+0042.927 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14000 files added (on-disk size: 65694.3 KB)
+0042.938 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14100 files added (on-disk size: 65694.3 KB)
+0042.950 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14200 files added (on-disk size: 65694.3 KB)
+0042.961 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14300 files added (on-disk size: 65694.3 KB)
+0042.972 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14400 files added (on-disk size: 65694.3 KB)
+0042.983 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14500 files added (on-disk size: 65694.3 KB)
+0042.993 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.tmp: 14600 files added (on-disk size: 65694.3 KB)
+0045.496 (0) Creating zip file manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.list-temp.tmp)
+0045.715 (0) Successfully created zip file manifest (size: 1277359)
+0046.904 (0) Created plugins zip (0) - 68141.5 KB in 46.8 s (1455.4 KB/s) (sha1: b533636e3250f5ebe1fe4c076c0bb04f32aedb85, sha256: 94f2e13279b24fc57feb5c29a86859708d653c5be2a9cf64b1268ce97218747e)
+0046.920 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0046.921 (0) No remote despatch: user chose no remote backup service
+0046.922 (0) Recording as successfully uploaded: backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip
+0046.924 (0) Deleting zip manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip.list.tmp)
+0046.928 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0046.930 (0) Number of backup sets in history: 0; groups (db): 1
+0046.931 (0) Number of backup sets in history: 0; groups (files): 1
+0046.932 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0046.941 (0) Beginning creation of dump of themes (split every: 400 MB)
+0047.618 (0) Total entities for the zip file: 837 directories, 3653 files (0 skipped as non-modified), 37.3 MB
+0047.639 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.655 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.671 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0047.691 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0047.708 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0047.732 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0047.759 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0047.781 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0047.802 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0047.830 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0047.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.9 MB, 3653 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0049.939 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1100 files added (on-disk size: 3365.8 KB)
+0049.961 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1200 files added (on-disk size: 3365.8 KB)
+0049.973 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1300 files added (on-disk size: 3365.8 KB)
+0049.997 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1400 files added (on-disk size: 3365.8 KB)
+0050.022 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1500 files added (on-disk size: 3365.8 KB)
+0050.043 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1600 files added (on-disk size: 3365.8 KB)
+0050.062 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1700 files added (on-disk size: 3365.8 KB)
+0050.081 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1800 files added (on-disk size: 3365.8 KB)
+0050.094 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 1900 files added (on-disk size: 3365.8 KB)
+0050.104 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2000 files added (on-disk size: 3365.8 KB)
+0050.107 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.4 MB, 3653 files batched, 1001 (2002) added so far); re-opening (prior size: 3365.8 KB)
+0051.280 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2100 files added (on-disk size: 5987.2 KB)
+0051.298 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2200 files added (on-disk size: 5987.2 KB)
+0051.311 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2300 files added (on-disk size: 5987.2 KB)
+0051.322 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2400 files added (on-disk size: 5987.2 KB)
+0051.332 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2500 files added (on-disk size: 5987.2 KB)
+0051.344 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2600 files added (on-disk size: 5987.2 KB)
+0051.359 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2700 files added (on-disk size: 5987.2 KB)
+0051.371 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2800 files added (on-disk size: 5987.2 KB)
+0051.383 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 2900 files added (on-disk size: 5987.2 KB)
+0051.394 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3000 files added (on-disk size: 5987.2 KB)
+0051.395 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.9 MB, 3653 files batched, 1001 (3003) added so far); re-opening (prior size: 5987.2 KB)
+0052.700 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3100 files added (on-disk size: 9812 KB)
+0052.710 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3200 files added (on-disk size: 9812 KB)
+0052.719 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3300 files added (on-disk size: 9812 KB)
+0052.728 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3400 files added (on-disk size: 9812 KB)
+0052.738 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3500 files added (on-disk size: 9812 KB)
+0052.747 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.tmp: 3600 files added (on-disk size: 9812 KB)
+0055.023 (0) Creating zip file manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.list-temp.tmp)
+0055.095 (0) Successfully created zip file manifest (size: 308032)
+0055.461 (0) Created themes zip (0) - 12227 KB in 8.5 s (1435.6 KB/s) (sha1: bad5a3a8c4d4f1222757242456a284139899cf00, sha256: dba84bffc8a32c7072f604c3b6efe80b37e54236c1ffd12fe5d2c22df20f2a8a)
+0055.467 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0055.468 (0) No remote despatch: user chose no remote backup service
+0055.469 (0) Recording as successfully uploaded: backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip
+0055.471 (0) Deleting zip manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip.list.tmp)
+0055.474 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0055.477 (0) Number of backup sets in history: 0; groups (db): 1
+0055.479 (0) Number of backup sets in history: 0; groups (files): 1
+0055.480 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0055.492 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+0055.494 (0) Looking for candidates to backup in: /home/oceanboxir/public_html/wp-content/uploads
+0055.495 (0) finding files: 2023: adding to list (1)
+0055.497 (0) finding files: al_opt_content: adding to list (2)
+0055.499 (0) finding files: woocommerce-placeholder-700x700.webp: adding to list (3)
+0055.500 (0) finding files: wc-logs: adding to list (4)
+0055.501 (0) finding files: woocommerce-placeholder-300x300.webp: adding to list (5)
+0055.502 (0) finding files: woocommerce-placeholder-430x430.webp: adding to list (6)
+0055.504 (0) finding files: woocommerce-placeholder.webp: adding to list (7)
+0055.505 (0) finding files: fonts: adding to list (8)
+0055.506 (0) finding files: elementor: adding to list (9)
+0055.507 (0) finding files: 2025: adding to list (10)
+0055.508 (0) finding files: woocommerce-placeholder-1024x1024.webp: adding to list (11)
+0055.510 (0) finding files: 2024: adding to list (12)
+0055.511 (0) finding files: woocommerce_uploads: adding to list (13)
+0055.512 (0) finding files: woocommerce-placeholder-150x150.webp: adding to list (14)
+0055.513 (0) finding files: ao_ccss: adding to list (15)
+0055.514 (0) finding files: backup: skipping: excluded by options (glob)
+0055.515 (0) finding files: wpseo-redirects: adding to list (16)
+0055.516 (0) finding files: bws_captcha_images: adding to list (17)
+0055.517 (0) finding files: wpcf7_uploads: adding to list (18)
+0055.518 (0) finding files: 2021: adding to list (19)
+0055.519 (0) finding files: bws-custom-code: adding to list (20)
+0055.520 (0) finding files: woocommerce-placeholder-768x768.webp: adding to list (21)
+0055.521 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0055.904 (0) Total entities for the zip file: 152 directories, 2777 files (0 skipped as non-modified), 43.9 MB
+0055.932 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0055.950 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0055.967 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0055.984 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0056.007 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0056.025 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0056.044 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0056.062 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0056.078 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0056.095 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0056.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.6 MB, 2777 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0058.095 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1100 files added (on-disk size: 18640.4 KB)
+0058.113 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1200 files added (on-disk size: 18640.4 KB)
+0058.129 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1300 files added (on-disk size: 18640.4 KB)
+0058.145 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1400 files added (on-disk size: 18640.4 KB)
+0058.160 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1500 files added (on-disk size: 18640.4 KB)
+0058.176 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1600 files added (on-disk size: 18640.4 KB)
+0058.195 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1700 files added (on-disk size: 18640.4 KB)
+0058.219 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1800 files added (on-disk size: 18640.4 KB)
+0058.244 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 1900 files added (on-disk size: 18640.4 KB)
+0058.260 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2000 files added (on-disk size: 18640.4 KB)
+0058.262 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.1 MB, 2777 files batched, 1001 (2002) added so far); re-opening (prior size: 18640.4 KB)
+0059.781 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2100 files added (on-disk size: 32090.5 KB)
+0059.802 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2200 files added (on-disk size: 32090.5 KB)
+0059.822 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2300 files added (on-disk size: 32090.5 KB)
+0059.839 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2400 files added (on-disk size: 32090.5 KB)
+0059.855 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2500 files added (on-disk size: 32090.5 KB)
+0059.867 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2600 files added (on-disk size: 32090.5 KB)
+0059.879 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.tmp: 2700 files added (on-disk size: 32090.5 KB)
+0061.442 (0) Creating zip file manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.list-temp.tmp)
+0061.518 (0) Successfully created zip file manifest (size: 249977)
+0062.454 (0) Created uploads zip (0) - 43575.8 KB in 6.9 s (6289.4 KB/s) (sha1: 31912a468928248f5b4b03922b4d0cd5aaf27dde, sha256: cdfadbe729d8cb4131e3188a447367e739888ce59922ab2863553fdeeaed648d)
+0062.470 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0062.472 (0) No remote despatch: user chose no remote backup service
+0062.475 (0) Recording as successfully uploaded: backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip
+0062.479 (0) Deleting zip manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip.list.tmp)
+0062.484 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0062.487 (0) Number of backup sets in history: 0; groups (db): 1
+0062.489 (0) Number of backup sets in history: 0; groups (files): 1
+0062.491 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0062.503 (0) No backup of mu-plugins: excluded by user's options
+0062.505 (0) Beginning backup of other directories found in the content directory (index: 0)
+0062.510 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0062.512 (0) Looking for candidates to backup in: /home/oceanboxir/public_html/wp-content
+0062.513 (0) finding files: uploads: skipping: this is the uploads directory
+0062.515 (0) finding files: themes: skipping: this is the themes directory
+0062.517 (0) finding files: plugins: skipping: this is the plugins directory
+0062.519 (0) finding files: cache: skipping: excluded by options
+0062.521 (0) finding files: updraft: skipping: this is the updraft directory
+0062.522 (0) finding files: wp-cache-config.php: adding to list (1)
+0062.524 (0) finding files: advanced-cache.php: adding to list (2)
+0062.526 (0) finding files: upgrade: skipping: excluded by options
+0062.528 (0) finding files: upgrade-temp-backup: adding to list (3)
+0062.529 (0) finding files: debug.log: skipping: excluded by options
+0062.531 (0) finding files: autoptimize_404_handler.php: adding to list (4)
+0062.533 (0) finding files: languages: adding to list (5)
+0062.534 (0) finding files: index.php: adding to list (6)
+0062.595 (0) Total entities for the zip file: 4 directories, 556 files (0 skipped as non-modified), 13.6 MB
+0062.607 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0062.622 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0062.648 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0062.670 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0062.694 (0) Zip: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0066.699 (0) Creating zip file manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.list-temp.tmp)
+0066.721 (0) Successfully created zip file manifest (size: 44768)
+0066.828 (0) Created others zip (0) - 3502.3 KB in 4.3 s (816.7 KB/s) (sha1: ca48a352b943ca576f409e2b416b89239ef52fa4, sha256: c41b3d076ba55c04e978d0fc57cd84156bd4fa83d2bf1f7f63c39e2fa35b7392)
+0066.836 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0066.838 (0) No remote despatch: user chose no remote backup service
+0066.840 (0) Recording as successfully uploaded: backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip
+0066.844 (0) Deleting zip manifest (backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip.list.tmp)
+0066.849 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0066.853 (0) Number of backup sets in history: 0; groups (db): 1
+0066.854 (0) Number of backup sets in history: 0; groups (files): 1
+0066.855 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0066.867 (0) Saving backup status to database (elements: 8)
+0066.872 (0) Beginning creation of database dump (WordPress DB)
+0066.875 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0066.907 (0) Table 0ZyaMv3j_options: Total expected rows (approximate): 1090
+0067.227 (0) Table 0ZyaMv3j_options: Rows added in this batch (next record: 159627): 1086 (uncompressed bytes in this segment=3869933) in 0.34 seconds
+0067.234 (0) Table 0ZyaMv3j_options: finishing file(s) (2, 492.9 KB)
+0067.241 (0) Table 0ZyaMv3j_users: Total expected rows (via COUNT): 8
+0067.242 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.248 (0) Table 0ZyaMv3j_users: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=2664) in 0.01 seconds
+0067.254 (0) Table 0ZyaMv3j_users: finishing file(s) (2, 1.3 KB)
+0067.264 (0) Table 0ZyaMv3j_usermeta: Total expected rows (via COUNT): 320
+0067.265 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.283 (0) Table 0ZyaMv3j_usermeta: Rows added in this batch (next record: 406): 320 (uncompressed bytes in this segment=27853) in 0.02 seconds
+0067.296 (0) Table 0ZyaMv3j_usermeta: finishing file(s) (2, 7 KB)
+0067.311 (0) Table 0ZyaMv3j_actionscheduler_actions: Total expected rows (via COUNT): 749
+0067.351 (0) Table 0ZyaMv3j_actionscheduler_actions: Rows added in this batch (next record: 758): 749 (uncompressed bytes in this segment=245147) in 0.05 seconds
+0067.361 (0) Table 0ZyaMv3j_actionscheduler_actions: finishing file(s) (2, 17.2 KB)
+0067.367 (0) Table 0ZyaMv3j_actionscheduler_claims: Total expected rows (via COUNT): 0
+0067.369 (0) Table 0ZyaMv3j_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=662) in 0.00 seconds
+0067.375 (0) Table 0ZyaMv3j_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0067.382 (0) Table 0ZyaMv3j_actionscheduler_groups: Total expected rows (via COUNT): 10
+0067.383 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.390 (0) Table 0ZyaMv3j_actionscheduler_groups: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=962) in 0.01 seconds
+0067.401 (0) Table 0ZyaMv3j_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0067.410 (0) Table 0ZyaMv3j_actionscheduler_logs: Total expected rows (approximate): 2223
+0067.494 (0) Table 0ZyaMv3j_actionscheduler_logs: Rows added in this batch (next record: 2229): 2223 (uncompressed bytes in this segment=222491) in 0.09 seconds
+0067.504 (0) Table 0ZyaMv3j_actionscheduler_logs: finishing file(s) (2, 18.2 KB)
+0067.516 (0) Table 0ZyaMv3j_commentmeta: Total expected rows (via COUNT): 35
+0067.518 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.522 (0) Table 0ZyaMv3j_commentmeta: Rows added in this batch (next record: 35): 35 (uncompressed bytes in this segment=1757) in 0.01 seconds
+0067.530 (0) Table 0ZyaMv3j_commentmeta: finishing file(s) (2, 0.6 KB)
+0067.539 (0) Table 0ZyaMv3j_comments: Total expected rows (via COUNT): 9
+0067.541 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.545 (0) Table 0ZyaMv3j_comments: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=4959) in 0.01 seconds
+0067.551 (0) Table 0ZyaMv3j_comments: finishing file(s) (2, 1.7 KB)
+0067.559 (0) Table 0ZyaMv3j_e_notes: Total expected rows (via COUNT): 0
+0067.563 (0) Table 0ZyaMv3j_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1921) in 0.01 seconds
+0067.574 (0) Table 0ZyaMv3j_e_notes: finishing file(s) (2, 0.8 KB)
+0067.578 (0) Table 0ZyaMv3j_e_notes_users_relations: Total expected rows (via COUNT): 0
+0067.580 (0) Table 0ZyaMv3j_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=888) in 0.00 seconds
+0067.585 (0) Table 0ZyaMv3j_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0067.591 (0) Table 0ZyaMv3j_imagify_files: Total expected rows (via COUNT): 0
+0067.593 (0) Table 0ZyaMv3j_imagify_files: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1369) in 0.00 seconds
+0067.599 (0) Table 0ZyaMv3j_imagify_files: finishing file(s) (2, 0.6 KB)
+0067.608 (0) Table 0ZyaMv3j_imagify_folders: Total expected rows (via COUNT): 0
+0067.611 (0) Table 0ZyaMv3j_imagify_folders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=645) in 0.01 seconds
+0067.618 (0) Table 0ZyaMv3j_imagify_folders: finishing file(s) (2, 0.4 KB)
+0067.624 (0) Table 0ZyaMv3j_links: Total expected rows (via COUNT): 0
+0067.626 (0) Table 0ZyaMv3j_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1063) in 0.00 seconds
+0067.631 (0) Table 0ZyaMv3j_links: finishing file(s) (2, 0.5 KB)
+0067.663 (0) Table 0ZyaMv3j_postmeta: Total expected rows (approximate): 9867
+0068.080 (0) Table 0ZyaMv3j_postmeta: Rows added in this batch (next record: 14469): 9867 (uncompressed bytes in this segment=4080474) in 0.45 seconds
+0068.092 (0) Table 0ZyaMv3j_postmeta: finishing file(s) (2, 350.3 KB)
+0068.123 (0) Table 0ZyaMv3j_posts: Total expected rows (via COUNT): 926
+0068.371 (0) Table 0ZyaMv3j_posts: Rows added in this batch (next record: 29636): 926 (uncompressed bytes in this segment=2345526) in 0.27 seconds
+0068.380 (0) Table 0ZyaMv3j_posts: finishing file(s) (2, 224.6 KB)
+0068.385 (0) Table 0ZyaMv3j_term_relationships: Total expected rows (approximate): 272
+0068.392 (0) Table 0ZyaMv3j_term_relationships: Rows added in this batch (next record: 100000): 272 (uncompressed bytes in this segment=5127) in 0.01 seconds
+0068.401 (0) Table 0ZyaMv3j_term_relationships: finishing file(s) (2, 1.3 KB)
+0068.414 (0) Table 0ZyaMv3j_term_taxonomy: Total expected rows (via COUNT): 95
+0068.415 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.423 (0) Table 0ZyaMv3j_term_taxonomy: Rows added in this batch (next record: 112): 95 (uncompressed bytes in this segment=4369) in 0.02 seconds
+0068.435 (0) Table 0ZyaMv3j_term_taxonomy: finishing file(s) (2, 1.2 KB)
+0068.447 (0) Table 0ZyaMv3j_termmeta: Total expected rows (via COUNT): 350
+0068.449 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.460 (0) Table 0ZyaMv3j_termmeta: Rows added in this batch (next record: 680): 350 (uncompressed bytes in this segment=27214) in 0.02 seconds
+0068.469 (0) Table 0ZyaMv3j_termmeta: finishing file(s) (2, 4.3 KB)
+0068.477 (0) Table 0ZyaMv3j_terms: Total expected rows (via COUNT): 95
+0068.478 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.485 (0) Table 0ZyaMv3j_terms: Rows added in this batch (next record: 112): 95 (uncompressed bytes in this segment=5710) in 0.01 seconds
+0068.493 (0) Table 0ZyaMv3j_terms: finishing file(s) (2, 2 KB)
+0068.502 (0) Table 0ZyaMv3j_wc_category_lookup: Total expected rows (approximate): 41
+0068.509 (0) Table 0ZyaMv3j_wc_category_lookup: Rows added in this batch (next record: 1000): 41 (uncompressed bytes in this segment=1098) in 0.01 seconds
+0068.516 (0) Table 0ZyaMv3j_wc_category_lookup: finishing file(s) (2, 0.5 KB)
+0068.525 (0) Table 0ZyaMv3j_wc_product_meta_lookup: Total expected rows (via COUNT): 41
+0068.526 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.533 (0) Table 0ZyaMv3j_wc_product_meta_lookup: Rows added in this batch (next record: 29415): 41 (uncompressed bytes in this segment=5380) in 0.01 seconds
+0068.540 (0) Table 0ZyaMv3j_wc_product_meta_lookup: finishing file(s) (2, 1 KB)
+0068.546 (0) Table 0ZyaMv3j_wc_reserved_stock: Total expected rows (approximate): 0
+0068.551 (0) Table 0ZyaMv3j_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=699) in 0.01 seconds
+0068.557 (0) Table 0ZyaMv3j_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0068.565 (0) Table 0ZyaMv3j_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0068.566 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.571 (0) Table 0ZyaMv3j_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=792) in 0.01 seconds
+0068.578 (0) Table 0ZyaMv3j_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0068.590 (0) Table 0ZyaMv3j_woocommerce_order_itemmeta: Total expected rows (via COUNT): 40
+0068.592 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.600 (0) Table 0ZyaMv3j_woocommerce_order_itemmeta: Rows added in this batch (next record: 40): 40 (uncompressed bytes in this segment=2245) in 0.02 seconds
+0068.606 (0) Table 0ZyaMv3j_woocommerce_order_itemmeta: finishing file(s) (2, 0.8 KB)
+0068.616 (0) Table 0ZyaMv3j_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0068.620 (0) Table 0ZyaMv3j_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=785) in 0.01 seconds
+0068.626 (0) Table 0ZyaMv3j_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0068.634 (0) Table 0ZyaMv3j_bv_airlift_config: Total expected rows (via COUNT): 0
+0068.637 (0) Table 0ZyaMv3j_bv_airlift_config: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=740) in 0.01 seconds
+0068.641 (0) Table 0ZyaMv3j_bv_airlift_config: finishing file(s) (2, 0.4 KB)
+0068.647 (0) Table 0ZyaMv3j_bv_airlift_stats: Total expected rows (via COUNT): 0
+0068.648 (0) Table 0ZyaMv3j_bv_airlift_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=668) in 0.00 seconds
+0068.653 (0) Table 0ZyaMv3j_bv_airlift_stats: finishing file(s) (2, 0.4 KB)
+0068.658 (0) Table 0ZyaMv3j_cev_user_log: Total expected rows (via COUNT): 4
+0068.659 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.663 (0) Table 0ZyaMv3j_cev_user_log: Rows added in this batch (next record: 6): 4 (uncompressed bytes in this segment=1080) in 0.01 seconds
+0068.670 (0) Table 0ZyaMv3j_cev_user_log: finishing file(s) (2, 0.6 KB)
+0068.679 (0) Table 0ZyaMv3j_cptch_allowlist: Total expected rows (via COUNT): 0
+0068.682 (0) Table 0ZyaMv3j_cptch_allowlist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.01 seconds
+0068.693 (0) Table 0ZyaMv3j_cptch_allowlist: finishing file(s) (2, 0.4 KB)
+0068.704 (0) Table 0ZyaMv3j_cptch_images: Total expected rows (via COUNT): 112
+0068.706 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.714 (0) Table 0ZyaMv3j_cptch_images: Rows added in this batch (next record: 112): 112 (uncompressed bytes in this segment=3099) in 0.01 seconds
+0068.721 (0) Table 0ZyaMv3j_cptch_images: finishing file(s) (2, 1 KB)
+0068.735 (0) Table 0ZyaMv3j_cptch_packages: Total expected rows (via COUNT): 12
+0068.736 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.739 (0) Table 0ZyaMv3j_cptch_packages: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1853) in 0.01 seconds
+0068.745 (0) Table 0ZyaMv3j_cptch_packages: finishing file(s) (2, 0.6 KB)
+0068.752 (0) Table 0ZyaMv3j_cptch_responses: Total expected rows (via COUNT): 0
+0068.755 (0) Table 0ZyaMv3j_cptch_responses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=531) in 0.01 seconds
+0068.760 (0) Table 0ZyaMv3j_cptch_responses: finishing file(s) (2, 0.3 KB)
+0068.767 (0) Table 0ZyaMv3j_e_events: Total expected rows (via COUNT): 13
+0068.768 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.772 (0) Table 0ZyaMv3j_e_events: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=3128) in 0.01 seconds
+0068.777 (0) Table 0ZyaMv3j_e_events: finishing file(s) (2, 0.7 KB)
+0068.785 (0) Table 0ZyaMv3j_e_submissions: Total expected rows (via COUNT): 0
+0068.789 (0) Table 0ZyaMv3j_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2015) in 0.01 seconds
+0068.794 (0) Table 0ZyaMv3j_e_submissions: finishing file(s) (2, 0.7 KB)
+0068.802 (0) Table 0ZyaMv3j_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0068.805 (0) Table 0ZyaMv3j_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1176) in 0.01 seconds
+0068.811 (0) Table 0ZyaMv3j_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0068.822 (0) Table 0ZyaMv3j_e_submissions_values: Total expected rows (via COUNT): 0
+0068.824 (0) Table 0ZyaMv3j_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=709) in 0.01 seconds
+0068.832 (0) Table 0ZyaMv3j_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0068.841 (0) Table 0ZyaMv3j_gglcptch_allowlist: Total expected rows (via COUNT): 0
+0068.843 (0) Table 0ZyaMv3j_gglcptch_allowlist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=653) in 0.01 seconds
+0068.851 (0) Table 0ZyaMv3j_gglcptch_allowlist: finishing file(s) (2, 0.4 KB)
+0068.865 (0) Table 0ZyaMv3j_jet_post_types: Total expected rows (via COUNT): 0
+0068.868 (0) Table 0ZyaMv3j_jet_post_types: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=628) in 0.01 seconds
+0068.875 (0) Table 0ZyaMv3j_jet_post_types: finishing file(s) (2, 0.4 KB)
+0068.889 (0) Table 0ZyaMv3j_jet_taxonomies: Total expected rows (via COUNT): 0
+0068.892 (0) Table 0ZyaMv3j_jet_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=663) in 0.01 seconds
+0068.902 (0) Table 0ZyaMv3j_jet_taxonomies: finishing file(s) (2, 0.4 KB)
+0068.916 (0) Table 0ZyaMv3j_wc_admin_note_actions: Total expected rows (via COUNT): 87
+0068.918 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.925 (0) Table 0ZyaMv3j_wc_admin_note_actions: Rows added in this batch (next record: 5589): 87 (uncompressed bytes in this segment=16150) in 0.02 seconds
+0068.935 (0) Table 0ZyaMv3j_wc_admin_note_actions: finishing file(s) (2, 3 KB)
+0068.948 (0) Table 0ZyaMv3j_wc_admin_notes: Total expected rows (via COUNT): 63
+0068.949 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.956 (0) Table 0ZyaMv3j_wc_admin_notes: Rows added in this batch (next record: 63): 63 (uncompressed bytes in this segment=31823) in 0.02 seconds
+0068.965 (0) Table 0ZyaMv3j_wc_admin_notes: finishing file(s) (2, 7.7 KB)
+0068.974 (0) Table 0ZyaMv3j_wc_customer_lookup: Total expected rows (via COUNT): 5
+0068.974 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0068.980 (0) Table 0ZyaMv3j_wc_customer_lookup: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1737) in 0.01 seconds
+0068.986 (0) Table 0ZyaMv3j_wc_customer_lookup: finishing file(s) (2, 0.7 KB)
+0068.993 (0) Table 0ZyaMv3j_wc_download_log: Total expected rows (via COUNT): 0
+0068.996 (0) Table 0ZyaMv3j_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=752) in 0.00 seconds
+0069.000 (0) Table 0ZyaMv3j_wc_download_log: finishing file(s) (2, 0.4 KB)
+0069.007 (0) Table 0ZyaMv3j_wc_order_addresses: Total expected rows (via COUNT): 0
+0069.008 (0) Table 0ZyaMv3j_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1094) in 0.00 seconds
+0069.011 (0) Table 0ZyaMv3j_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0069.015 (0) Table 0ZyaMv3j_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0069.016 (0) Table 0ZyaMv3j_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=751) in 0.00 seconds
+0069.019 (0) Table 0ZyaMv3j_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0069.023 (0) Table 0ZyaMv3j_wc_order_operational_data: Total expected rows (via COUNT): 0
+0069.024 (0) Table 0ZyaMv3j_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1435) in 0.00 seconds
+0069.030 (0) Table 0ZyaMv3j_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0069.038 (0) Table 0ZyaMv3j_wc_order_product_lookup: Total expected rows (approximate): 0
+0069.040 (0) Table 0ZyaMv3j_wc_order_product_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=1335) in 0.00 seconds
+0069.047 (0) Table 0ZyaMv3j_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0069.055 (0) Table 0ZyaMv3j_wc_order_stats: Total expected rows (via COUNT): 0
+0069.059 (0) Table 0ZyaMv3j_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1228) in 0.01 seconds
+0069.065 (0) Table 0ZyaMv3j_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0069.075 (0) Table 0ZyaMv3j_wc_order_tax_lookup: Total expected rows (approximate): 0
+0069.078 (0) Table 0ZyaMv3j_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=829) in 0.01 seconds
+0069.087 (0) Table 0ZyaMv3j_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0069.100 (0) Table 0ZyaMv3j_wc_orders: Total expected rows (via COUNT): 0
+0069.105 (0) Table 0ZyaMv3j_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1453) in 0.01 seconds
+0069.114 (0) Table 0ZyaMv3j_wc_orders: finishing file(s) (2, 0.6 KB)
+0069.123 (0) Table 0ZyaMv3j_wc_orders_meta: Total expected rows (via COUNT): 0
+0069.126 (0) Table 0ZyaMv3j_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=738) in 0.01 seconds
+0069.133 (0) Table 0ZyaMv3j_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0069.144 (0) Table 0ZyaMv3j_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0069.150 (0) Table 0ZyaMv3j_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=867) in 0.01 seconds
+0069.159 (0) Table 0ZyaMv3j_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0069.167 (0) Table 0ZyaMv3j_wc_product_download_directories: Total expected rows (via COUNT): 2
+0069.169 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.176 (0) Table 0ZyaMv3j_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=923) in 0.01 seconds
+0069.185 (0) Table 0ZyaMv3j_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0069.194 (0) Table 0ZyaMv3j_wc_rate_limits: Total expected rows (via COUNT): 0
+0069.199 (0) Table 0ZyaMv3j_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=703) in 0.01 seconds
+0069.208 (0) Table 0ZyaMv3j_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0069.217 (0) Table 0ZyaMv3j_wc_webhooks: Total expected rows (via COUNT): 0
+0069.220 (0) Table 0ZyaMv3j_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1107) in 0.01 seconds
+0069.228 (0) Table 0ZyaMv3j_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0069.240 (0) Table 0ZyaMv3j_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0069.242 (0) Table 0ZyaMv3j_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=909) in 0.01 seconds
+0069.251 (0) Table 0ZyaMv3j_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0069.261 (0) Table 0ZyaMv3j_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 2
+0069.263 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.270 (0) Table 0ZyaMv3j_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1051) in 0.01 seconds
+0069.278 (0) Table 0ZyaMv3j_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+0069.291 (0) Table 0ZyaMv3j_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0069.296 (0) Table 0ZyaMv3j_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1446) in 0.01 seconds
+0069.306 (0) Table 0ZyaMv3j_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0069.315 (0) Table 0ZyaMv3j_woocommerce_log: Total expected rows (via COUNT): 0
+0069.316 (0) Table 0ZyaMv3j_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=678) in 0.01 seconds
+0069.326 (0) Table 0ZyaMv3j_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0069.338 (0) Table 0ZyaMv3j_woocommerce_order_items: Total expected rows (via COUNT): 4
+0069.339 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.343 (0) Table 0ZyaMv3j_woocommerce_order_items: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=998) in 0.01 seconds
+0069.349 (0) Table 0ZyaMv3j_woocommerce_order_items: finishing file(s) (2, 0.5 KB)
+0069.363 (0) Table 0ZyaMv3j_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0069.368 (0) Table 0ZyaMv3j_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=780) in 0.01 seconds
+0069.374 (0) Table 0ZyaMv3j_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0069.392 (0) Table 0ZyaMv3j_woocommerce_sessions: Total expected rows (via COUNT): 423
+0069.394 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.431 (0) Table 0ZyaMv3j_woocommerce_sessions: Rows added in this batch (next record: 428): 423 (uncompressed bytes in this segment=772108) in 0.05 seconds
+0069.443 (0) Table 0ZyaMv3j_woocommerce_sessions: finishing file(s) (2, 25.7 KB)
+0069.452 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0069.456 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.01 seconds
+0069.463 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0069.472 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0069.476 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=778) in 0.01 seconds
+0069.483 (0) Table 0ZyaMv3j_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0069.493 (0) Table 0ZyaMv3j_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0069.495 (0) Table 0ZyaMv3j_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.01 seconds
+0069.503 (0) Table 0ZyaMv3j_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0069.513 (0) Table 0ZyaMv3j_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0069.515 (0) Table 0ZyaMv3j_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=822) in 0.01 seconds
+0069.523 (0) Table 0ZyaMv3j_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0069.533 (0) Table 0ZyaMv3j_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0069.536 (0) Table 0ZyaMv3j_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1178) in 0.01 seconds
+0069.541 (0) Table 0ZyaMv3j_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0069.552 (0) Table 0ZyaMv3j_yoast_indexable: Total expected rows (via COUNT): 164
+0069.554 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.590 (0) Table 0ZyaMv3j_yoast_indexable: Rows added in this batch (next record: 259): 164 (uncompressed bytes in this segment=114981) in 0.04 seconds
+0069.604 (0) Table 0ZyaMv3j_yoast_indexable: finishing file(s) (2, 18.4 KB)
+0069.614 (0) Table 0ZyaMv3j_yoast_indexable_hierarchy: Total expected rows (approximate): 160
+0069.621 (0) Table 0ZyaMv3j_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 160 (uncompressed bytes in this segment=3565) in 0.01 seconds
+0069.627 (0) Table 0ZyaMv3j_yoast_indexable_hierarchy: finishing file(s) (2, 0.8 KB)
+0069.634 (0) Table 0ZyaMv3j_yoast_migrations: Total expected rows (via COUNT): 26
+0069.636 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.642 (0) Table 0ZyaMv3j_yoast_migrations: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1291) in 0.01 seconds
+0069.649 (0) Table 0ZyaMv3j_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0069.660 (0) Table 0ZyaMv3j_yoast_primary_term: Total expected rows (via COUNT): 30
+0069.662 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0069.666 (0) Table 0ZyaMv3j_yoast_primary_term: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=3415) in 0.01 seconds
+0069.672 (0) Table 0ZyaMv3j_yoast_primary_term: finishing file(s) (2, 0.9 KB)
+0069.681 (0) Table 0ZyaMv3j_yoast_prominent_words: Total expected rows (approximate): 1397
+0069.713 (0) Table 0ZyaMv3j_yoast_prominent_words: Rows added in this batch (next record: 1421): 1397 (uncompressed bytes in this segment=41170) in 0.03 seconds
+0069.724 (0) Table 0ZyaMv3j_yoast_prominent_words: finishing file(s) (2, 9.9 KB)
+0069.735 (0) Table 0ZyaMv3j_yoast_seo_links: Total expected rows (approximate): 1399
+0069.801 (0) Table 0ZyaMv3j_yoast_seo_links: Rows added in this batch (next record: 2694): 1399 (uncompressed bytes in this segment=185547) in 0.07 seconds
+0069.812 (0) Table 0ZyaMv3j_yoast_seo_links: finishing file(s) (2, 14.5 KB)
+0069.817 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_options.table.tmpr159628.gz (1/74/fopen): adding to final database dump
+0069.880 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_options.table.gz (2/74/fopen): adding to final database dump
+0069.882 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_users.table.tmpr9.gz (3/74/fopen): adding to final database dump
+0069.885 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_users.table.gz (4/74/fopen): adding to final database dump
+0069.887 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_usermeta.table.tmpr407.gz (5/74/fopen): adding to final database dump
+0069.890 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_usermeta.table.gz (6/74/fopen): adding to final database dump
+0069.891 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_actions.table.tmpr759.gz (7/74/fopen): adding to final database dump
+0069.894 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_actions.table.gz (8/74/fopen): adding to final database dump
+0069.895 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_claims.table.tmpr0.gz (9/74/fopen): adding to final database dump
+0069.897 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_claims.table.gz (10/74/fopen): adding to final database dump
+0069.898 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_groups.table.tmpr11.gz (11/74/fopen): adding to final database dump
+0069.900 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_groups.table.gz (12/74/fopen): adding to final database dump
+0069.902 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_logs.table.tmpr2230.gz (13/74/fopen): adding to final database dump
+0069.907 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_actionscheduler_logs.table.gz (14/74/fopen): adding to final database dump
+0069.909 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_commentmeta.table.tmpr36.gz (15/74/fopen): adding to final database dump
+0069.912 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_commentmeta.table.gz (16/74/fopen): adding to final database dump
+0069.913 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_comments.table.tmpr10.gz (17/74/fopen): adding to final database dump
+0069.915 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_comments.table.gz (18/74/fopen): adding to final database dump
+0069.917 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_notes.table.tmpr0.gz (19/74/fopen): adding to final database dump
+0069.919 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_notes.table.gz (20/74/fopen): adding to final database dump
+0069.921 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_notes_users_relations.table.tmpr0.gz (21/74/fopen): adding to final database dump
+0069.923 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_notes_users_relations.table.gz (22/74/fopen): adding to final database dump
+0069.924 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_imagify_files.table.tmpr0.gz (23/74/fopen): adding to final database dump
+0069.926 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_imagify_files.table.gz (24/74/fopen): adding to final database dump
+0069.927 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_imagify_folders.table.tmpr0.gz (25/74/fopen): adding to final database dump
+0069.929 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_imagify_folders.table.gz (26/74/fopen): adding to final database dump
+0069.930 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_links.table.tmpr0.gz (27/74/fopen): adding to final database dump
+0069.932 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_links.table.gz (28/74/fopen): adding to final database dump
+0069.934 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_postmeta.table.tmpr14470.gz (29/74/fopen): adding to final database dump
+0069.972 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_postmeta.table.gz (30/74/fopen): adding to final database dump
+0069.974 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_posts.table.tmpr29637.gz (31/74/fopen): adding to final database dump
+0070.001 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_posts.table.gz (32/74/fopen): adding to final database dump
+0070.003 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_term_relationships.table.tmpr100001.gz (33/74/fopen): adding to final database dump
+0070.005 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_term_relationships.table.gz (34/74/fopen): adding to final database dump
+0070.007 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_term_taxonomy.table.tmpr113.gz (35/74/fopen): adding to final database dump
+0070.009 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_term_taxonomy.table.gz (36/74/fopen): adding to final database dump
+0070.010 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_termmeta.table.tmpr681.gz (37/74/fopen): adding to final database dump
+0070.013 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_termmeta.table.gz (38/74/fopen): adding to final database dump
+0070.014 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_terms.table.tmpr113.gz (39/74/fopen): adding to final database dump
+0070.016 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_terms.table.gz (40/74/fopen): adding to final database dump
+0070.018 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_category_lookup.table.tmpr1001.gz (41/74/fopen): adding to final database dump
+0070.020 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_category_lookup.table.gz (42/74/fopen): adding to final database dump
+0070.021 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_meta_lookup.table.tmpr29416.gz (43/74/fopen): adding to final database dump
+0070.023 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_meta_lookup.table.gz (44/74/fopen): adding to final database dump
+0070.024 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_reserved_stock.table.tmpr1.gz (45/74/fopen): adding to final database dump
+0070.027 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_reserved_stock.table.gz (46/74/fopen): adding to final database dump
+0070.028 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_tax_rate_classes.table.tmpr3.gz (47/74/fopen): adding to final database dump
+0070.030 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_tax_rate_classes.table.gz (48/74/fopen): adding to final database dump
+0070.032 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_order_itemmeta.table.tmpr41.gz (49/74/fopen): adding to final database dump
+0070.033 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_order_itemmeta.table.gz (50/74/fopen): adding to final database dump
+0070.034 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_payment_tokenmeta.table.tmpr0.gz (51/74/fopen): adding to final database dump
+0070.036 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_payment_tokenmeta.table.gz (52/74/fopen): adding to final database dump
+0070.038 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_bv_airlift_config.table.tmpr0.gz (53/74/fopen): adding to final database dump
+0070.040 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_bv_airlift_config.table.gz (54/74/fopen): adding to final database dump
+0070.041 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_bv_airlift_stats.table.tmpr0.gz (55/74/fopen): adding to final database dump
+0070.042 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_bv_airlift_stats.table.gz (56/74/fopen): adding to final database dump
+0070.044 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cev_user_log.table.tmpr7.gz (57/74/fopen): adding to final database dump
+0070.046 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cev_user_log.table.gz (58/74/fopen): adding to final database dump
+0070.047 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_allowlist.table.tmpr0.gz (59/74/fopen): adding to final database dump
+0070.049 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_allowlist.table.gz (60/74/fopen): adding to final database dump
+0070.051 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_images.table.tmpr113.gz (61/74/fopen): adding to final database dump
+0070.052 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_images.table.gz (62/74/fopen): adding to final database dump
+0070.054 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_packages.table.tmpr13.gz (63/74/fopen): adding to final database dump
+0070.055 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_packages.table.gz (64/74/fopen): adding to final database dump
+0070.057 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_responses.table.tmpr0.gz (65/74/fopen): adding to final database dump
+0070.058 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_cptch_responses.table.gz (66/74/fopen): adding to final database dump
+0070.060 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_events.table.tmpr14.gz (67/74/fopen): adding to final database dump
+0070.061 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_events.table.gz (68/74/fopen): adding to final database dump
+0070.063 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions.table.tmpr0.gz (69/74/fopen): adding to final database dump
+0070.064 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions.table.gz (70/74/fopen): adding to final database dump
+0070.065 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions_actions_log.table.tmpr0.gz (71/74/fopen): adding to final database dump
+0070.067 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions_actions_log.table.gz (72/74/fopen): adding to final database dump
+0070.069 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions_values.table.tmpr0.gz (73/74/fopen): adding to final database dump
+0070.070 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_e_submissions_values.table.gz (74/74/fopen): adding to final database dump
+0070.072 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_gglcptch_allowlist.table.tmpr0.gz (75/74/fopen): adding to final database dump
+0070.074 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_gglcptch_allowlist.table.gz (76/74/fopen): adding to final database dump
+0070.075 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_jet_post_types.table.tmpr0.gz (77/74/fopen): adding to final database dump
+0070.077 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_jet_post_types.table.gz (78/74/fopen): adding to final database dump
+0070.078 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_jet_taxonomies.table.tmpr0.gz (79/74/fopen): adding to final database dump
+0070.079 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_jet_taxonomies.table.gz (80/74/fopen): adding to final database dump
+0070.081 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_admin_note_actions.table.tmpr5590.gz (81/74/fopen): adding to final database dump
+0070.083 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_admin_note_actions.table.gz (82/74/fopen): adding to final database dump
+0070.084 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_admin_notes.table.tmpr64.gz (83/74/fopen): adding to final database dump
+0070.087 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_admin_notes.table.gz (84/74/fopen): adding to final database dump
+0070.089 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_customer_lookup.table.tmpr6.gz (85/74/fopen): adding to final database dump
+0070.091 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_customer_lookup.table.gz (86/74/fopen): adding to final database dump
+0070.092 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_download_log.table.tmpr0.gz (87/74/fopen): adding to final database dump
+0070.093 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_download_log.table.gz (88/74/fopen): adding to final database dump
+0070.094 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_addresses.table.tmpr0.gz (89/74/fopen): adding to final database dump
+0070.095 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_addresses.table.gz (90/74/fopen): adding to final database dump
+0070.096 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_coupon_lookup.table.tmpr1.gz (91/74/fopen): adding to final database dump
+0070.097 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_coupon_lookup.table.gz (92/74/fopen): adding to final database dump
+0070.098 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_operational_data.table.tmpr0.gz (93/74/fopen): adding to final database dump
+0070.099 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_operational_data.table.gz (94/74/fopen): adding to final database dump
+0070.100 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_product_lookup.table.tmpr1.gz (95/74/fopen): adding to final database dump
+0070.101 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_product_lookup.table.gz (96/74/fopen): adding to final database dump
+0070.103 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_stats.table.tmpr0.gz (97/74/fopen): adding to final database dump
+0070.104 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_stats.table.gz (98/74/fopen): adding to final database dump
+0070.105 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_tax_lookup.table.tmpr1.gz (99/74/fopen): adding to final database dump
+0070.108 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_order_tax_lookup.table.gz (100/74/fopen): adding to final database dump
+0070.110 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_orders.table.tmpr0.gz (101/74/fopen): adding to final database dump
+0070.111 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_orders.table.gz (102/74/fopen): adding to final database dump
+0070.112 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_orders_meta.table.tmpr0.gz (103/74/fopen): adding to final database dump
+0070.113 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_orders_meta.table.gz (104/74/fopen): adding to final database dump
+0070.115 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_attributes_lookup.table.tmpr1.gz (105/74/fopen): adding to final database dump
+0070.116 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_attributes_lookup.table.gz (106/74/fopen): adding to final database dump
+0070.117 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_download_directories.table.tmpr3.gz (107/74/fopen): adding to final database dump
+0070.119 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_product_download_directories.table.gz (108/74/fopen): adding to final database dump
+0070.120 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_rate_limits.table.tmpr0.gz (109/74/fopen): adding to final database dump
+0070.122 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_rate_limits.table.gz (110/74/fopen): adding to final database dump
+0070.123 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_webhooks.table.tmpr0.gz (111/74/fopen): adding to final database dump
+0070.125 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_wc_webhooks.table.gz (112/74/fopen): adding to final database dump
+0070.126 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_api_keys.table.tmpr0.gz (113/74/fopen): adding to final database dump
+0070.127 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_api_keys.table.gz (114/74/fopen): adding to final database dump
+0070.128 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_attribute_taxonomies.table.tmpr3.gz (115/74/fopen): adding to final database dump
+0070.130 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_attribute_taxonomies.table.gz (116/74/fopen): adding to final database dump
+0070.131 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_downloadable_product_permissions.table.tmpr0.gz (117/74/fopen): adding to final database dump
+0070.133 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_downloadable_product_permissions.table.gz (118/74/fopen): adding to final database dump
+0070.134 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_log.table.tmpr0.gz (119/74/fopen): adding to final database dump
+0070.136 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_log.table.gz (120/74/fopen): adding to final database dump
+0070.138 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_order_items.table.tmpr5.gz (121/74/fopen): adding to final database dump
+0070.140 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_order_items.table.gz (122/74/fopen): adding to final database dump
+0070.142 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_payment_tokens.table.tmpr0.gz (123/74/fopen): adding to final database dump
+0070.144 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_payment_tokens.table.gz (124/74/fopen): adding to final database dump
+0070.145 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_sessions.table.tmpr429.gz (125/74/fopen): adding to final database dump
+0070.154 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_sessions.table.gz (126/74/fopen): adding to final database dump
+0070.156 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zone_locations.table.tmpr0.gz (127/74/fopen): adding to final database dump
+0070.157 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zone_locations.table.gz (128/74/fopen): adding to final database dump
+0070.159 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zone_methods.table.tmpr0.gz (129/74/fopen): adding to final database dump
+0070.161 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zone_methods.table.gz (130/74/fopen): adding to final database dump
+0070.162 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zones.table.tmpr0.gz (131/74/fopen): adding to final database dump
+0070.164 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_shipping_zones.table.gz (132/74/fopen): adding to final database dump
+0070.165 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_tax_rate_locations.table.tmpr0.gz (133/74/fopen): adding to final database dump
+0070.167 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_tax_rate_locations.table.gz (134/74/fopen): adding to final database dump
+0070.168 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_tax_rates.table.tmpr0.gz (135/74/fopen): adding to final database dump
+0070.169 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_woocommerce_tax_rates.table.gz (136/74/fopen): adding to final database dump
+0070.171 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_indexable.table.tmpr260.gz (137/74/fopen): adding to final database dump
+0070.174 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_indexable.table.gz (138/74/fopen): adding to final database dump
+0070.176 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_indexable_hierarchy.table.tmpr1001.gz (139/74/fopen): adding to final database dump
+0070.177 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_indexable_hierarchy.table.gz (140/74/fopen): adding to final database dump
+0070.179 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_migrations.table.tmpr27.gz (141/74/fopen): adding to final database dump
+0070.181 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_migrations.table.gz (142/74/fopen): adding to final database dump
+0070.183 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_primary_term.table.tmpr31.gz (143/74/fopen): adding to final database dump
+0070.185 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_primary_term.table.gz (144/74/fopen): adding to final database dump
+0070.186 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_prominent_words.table.tmpr1422.gz (145/74/fopen): adding to final database dump
+0070.190 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_prominent_words.table.gz (146/74/fopen): adding to final database dump
+0070.191 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_seo_links.table.tmpr2695.gz (147/74/fopen): adding to final database dump
+0070.195 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db-table-0ZyaMv3j_yoast_seo_links.table.gz (148/74/fopen): adding to final database dump
+0070.210 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db.gz: finished writing out complete database file (1228.3 KB)
+0070.275 (0) Total database tables backed up: 74 (backup_2025-09-26-1602_oceanbox_41a9693ca66a-db.gz, size: 1257934, sha1: 246a6fc920b279f3b3dc8795802b7d5167cbaea2, sha256: a309b9243e7323573abab368efafceea3c400f5d0026b4e511289df5a99bbd65)
+0070.289 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-plugins.zip: plugins: This file has already been successfully processed
+0070.291 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-themes.zip: themes: This file has already been successfully processed
+0070.294 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-uploads.zip: uploads: This file has already been successfully processed
+0070.296 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-others.zip: others: This file has already been successfully processed
+0070.298 (0) backup_2025-09-26-1602_oceanbox_41a9693ca66a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0070.300 (0) Saving backup history. Total backup size: 125.7 MB
+0070.308 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0070.318 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0070.320 (0) No remote despatch: user chose no remote backup service
+0070.322 (0) Recording as successfully uploaded: backup_2025-09-26-1602_oceanbox_41a9693ca66a-db.gz
+0070.329 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0070.332 (0) Number of backup sets in history: 1; groups (db): 1
+0070.333 (0) Examining (for databases) backup set with group_id=0, nonce=41a9693ca66a, datestamp=1758902567 (Sep 26 2025 16:02:47)
+0070.334 (0) This backup set is the backup set just made, so will not be deleted.
+0070.334 (0) Number of backup sets in history: 1; groups (files): 1
+0070.336 (0) Examining (for files) backup set with nonce=41a9693ca66a, datestamp=1758902567 (Sep 26 2025 16:02:47)
+0070.336 (0) This backup set is the backup set just made, so will not be deleted.
+0070.337 (0) This backup set is the backup set just made, so will not be deleted.
+0070.338 (0) This backup set is the backup set just made, so will not be deleted.
+0070.338 (0) This backup set is the backup set just made, so will not be deleted.
+0070.338 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0070.340 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0070.345 (0) Resume backup (41a9693ca66a, 0): finish run
+0070.349 (0) Decremented the semaphore (fd) by 1
+0070.352 (0) Semaphore (fd) unlocked
+0070.353 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0070.359 (0) No email will/can be sent - the user has not configured an email address.
+0070.361 (0) The backup succeeded and is now complete

@@ -27,7 +27,7 @@ if ( ! function_exists( 'woodmart_get_vc_map_single_product_compare_button' ) ) 
 
 		return array(
 			'base'        => 'woodmart_single_product_compare_button',
-			'name'        => esc_html__( 'Add to compare button', 'woodmart' ),
+			'name'        => esc_html__( 'افزودن به لیست مقایسه button', 'woodmart' ),
 			'category'    => woodmart_get_tab_title_category_for_wpb( esc_html__( 'Single product elements', 'woodmart' ), 'single_product' ),
 			'description' => esc_html__( 'Add this product to compare', 'woodmart' ),
 			'icon'        => WOODMART_ASSETS . '/images/vc-icon/sp-icons/sp-add-to-compare-button.svg',

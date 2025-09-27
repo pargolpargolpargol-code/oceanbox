@@ -36,7 +36,7 @@ class Compare_Button extends Widget_Base {
 	 * @return string Widget title.
 	 */
 	public function get_title() {
-		return esc_html__( 'Add to compare button', 'woodmart' );
+		return esc_html__( 'افزودن به لیست مقایسه button', 'woodmart' );
 	}
 
 	/**

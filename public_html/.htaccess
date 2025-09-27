@@ -1,3 +1,14 @@
+# BEGIN Imagify: webp file type
+<IfModule mod_mime.c>
+	AddType image/webp .webp
+</IfModule>
+# END Imagify: webp file type
+
+# BEGIN Imagify: avif file type
+<IfModule mod_mime.c>
+	AddType image/avif .avif
+</IfModule>
+# END Imagify: avif file type
 
 # BEGIN WordPress
 # دستورالعمل‌های (خطوط) بین "BEGIN WordPress" و "END WordPress"

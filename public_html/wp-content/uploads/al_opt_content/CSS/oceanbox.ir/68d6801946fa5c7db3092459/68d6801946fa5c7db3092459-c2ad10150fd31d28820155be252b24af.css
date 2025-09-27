@@ -1,0 +1,152 @@
+@font-face {font-display:swap;
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/themes/woodmart/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1714ad61469de2c1cc2776e5e0eb7394_woodmart-font-1-400.woff2") format("woff2");
+}
+
+@font-face {font-display:swap;
+	font-family: "star";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-335cbf607c55aa32fd06809d1f9eb127_star.woff") format("woff"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6b78a34cea321205e5ee8a1b44b41a5e_star.ttf") format("truetype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e73470010dd7998b280b4066e39e9ec_star.svg#star") format("svg");
+}
+
+@font-face {font-display:swap;
+	font-family: "WooCommerce";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix") format("embedded-opentype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-dc54d4f864988c37c703a607320e805a_WooCommerce.woff") format("woff"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf") format("truetype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-f64b7f33060e1af8edaed146d8bb072e_WooCommerce.svg#WooCommerce") format("svg");
+}
+
+:root {
+	--wd-text-font: "rokhfanum", Arial, Helvetica, sans-serif;
+	--wd-text-font-weight: 500;
+	--wd-text-color: rgb(0,0,0);
+	--wd-text-font-size: 14px;
+	--wd-title-font: "rokhfanum", Arial, Helvetica, sans-serif;
+	--wd-title-font-weight: 700;
+	--wd-title-color: #242424;
+	--wd-entities-title-font: "rokhfanum", Arial, Helvetica, sans-serif;
+	--wd-entities-title-font-weight: 500;
+	--wd-entities-title-color: #333333;
+	--wd-entities-title-color-hover: rgb(51 51 51 / 65%);
+	--wd-alternative-font: "Lato", Arial, Helvetica, sans-serif;
+	--wd-widget-title-font: "rokhfanum", Arial, Helvetica, sans-serif;
+	--wd-widget-title-font-weight: 700;
+	--wd-widget-title-transform: uppercase;
+	--wd-widget-title-color: #333;
+	--wd-widget-title-font-size: 16px;
+	--wd-header-el-font: "rokhfanum", Arial, Helvetica, sans-serif;
+	--wd-header-el-font-weight: 600;
+	--wd-header-el-transform: uppercase;
+	--wd-header-el-font-size: 13px;
+	--wd-primary-color: rgb(0,141,218);
+	--wd-alternative-color: rgb(65,201,226);
+	--wd-link-color: #333333;
+	--wd-link-color-hover: #242424;
+	--btn-default-bgcolor: rgb(65,201,226);
+	--btn-default-bgcolor-hover: #efefef;
+	--btn-accented-bgcolor: rgb(65,201,226);
+	--btn-accented-bgcolor-hover: rgb(91,173,191);
+	--wd-form-brd-width: 2px;
+	--notices-success-bg: rgb(0,141,218);
+	--notices-success-color: #fff;
+	--notices-warning-bg: rgb(172,226,225);
+	--notices-warning-color: #fff;
+}
+.wd-popup.wd-age-verify {
+	--wd-popup-width: 500px;
+}
+.wd-popup.wd-promo-popup {
+	background-color: #111111;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left center;
+	--wd-popup-width: 800px;
+}
+:is(.woodmart-woocommerce-layered-nav, .wd-product-category-filter) .wd-scroll-content {
+	max-height: 223px;
+}
+.wd-page-title {
+	background-color: #0a0a0a;
+	background-image: none;
+	background-size: cover;
+	background-position: center center;
+}
+.wd-footer {
+	background-color: #ffffff;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right center;
+}
+ {
+	font-family: "rokhfanum", Arial, Helvetica, sans-serif;
+	font-weight: 500;
+	color: rgb(0,0,0);
+}
+.wd-popup.popup-quick-view {
+	--wd-popup-width: 920px;
+}
+:root{
+--wd-container-w: 1222px;
+--wd-form-brd-radius: 0px;
+--btn-default-color: #333;
+--btn-default-color-hover: #333;
+--btn-accented-color: #fff;
+--btn-accented-color-hover: #fff;
+--btn-default-brd-radius: 5px;
+--btn-default-box-shadow: none;
+--btn-default-box-shadow-hover: none;
+--btn-accented-brd-radius: 5px;
+--btn-accented-box-shadow: none;
+--btn-accented-box-shadow-hover: none;
+--wd-brd-radius: 0px;
+}
+
+@media (min-width: 1222px) {
+section.elementor-section.wd-section-stretch > .elementor-container {
+margin-left: auto;
+margin-right: auto;
+}
+}
+
+
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-b0af436aef635aaaeb712f39585d9188_Rokh-ExtraBold.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6691d431ff46656da4d11eb5b7f129fe_Rokh-ExtraBold.woff") format("woff");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-e52540d6ee9b45b6aeab5cbe13a1ee2d_Rokh-Normal.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1151908e811cdfc5794674fe947d8709_Rokh-Normal.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-3e78c7278f2c896064d6839bdaa2d39f_Rokh-SemiBold.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6ea4a23fc1e51ba16c2febb5ebb4939d_Rokh-SemiBold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e557ec1ea055f7512c27e4260f16046_Rokh-Medium.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-fceac76aca5bdca32e7a8d6224318e72_Rokh-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+
+footer.footer-container {
+    min-height: 567px;
+
+}

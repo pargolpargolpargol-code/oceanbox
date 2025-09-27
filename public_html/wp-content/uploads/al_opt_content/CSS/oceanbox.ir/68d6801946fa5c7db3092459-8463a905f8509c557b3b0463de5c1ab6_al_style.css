@@ -1,0 +1,90 @@
+@font-face {font-display:swap;
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/themes/woodmart/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1714ad61469de2c1cc2776e5e0eb7394_woodmart-font-1-400_converted6e1cbec360958840f18a84a93f9ae88d.woff2) format('woff2');
+}
+@font-face {font-display:swap;
+	font-family: "star";
+	font-weight: 400;
+	font-style: normal;
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6b78a34cea321205e5ee8a1b44b41a5e_star_converted7612fce5a1ea6b11f23c89e80c839730.woff2) format('woff2'), url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format('embedded-opentype'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-335cbf607c55aa32fd06809d1f9eb127_star.woff") format('woff'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6b78a34cea321205e5ee8a1b44b41a5e_star.ttf") format('truetype'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e73470010dd7998b280b4066e39e9ec_star.svg#star") format('svg');
+}
+@font-face {font-display:swap;
+	font-family: "WooCommerce";
+	font-weight: 400;
+	font-style: normal;
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce_converted317d3448e8160019c08a14005e746643.woff2) format('woff2'), url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix") format('embedded-opentype'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-dc54d4f864988c37c703a607320e805a_WooCommerce.woff") format('woff'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf") format('truetype'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-f64b7f33060e1af8edaed146d8bb072e_WooCommerce.svg#WooCommerce") format('svg');
+}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-b0af436aef635aaaeb712f39585d9188_Rokh-ExtraBold_converted547b8b34745ac32de18009ed97902e71.woff2) format('woff2'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6691d431ff46656da4d11eb5b7f129fe_Rokh-ExtraBold.woff") format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-e52540d6ee9b45b6aeab5cbe13a1ee2d_Rokh-Normal_converteda88234739af42df46a35562954ac9296.woff2) format('woff2'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1151908e811cdfc5794674fe947d8709_Rokh-Normal.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-3e78c7278f2c896064d6839bdaa2d39f_Rokh-SemiBold_converted59a1b51658ca13e6dfc6e8de2f30448c.woff2) format('woff2'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6ea4a23fc1e51ba16c2febb5ebb4939d_Rokh-SemiBold.woff") format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url(https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir//wp-content/uploads/al_opt_content/FONT/oceanbox.ir/wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e557ec1ea055f7512c27e4260f16046_Rokh-Medium_converted87ba77a3ff0b4e4fe49336d727f7602f.woff2) format('woff2'), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-fceac76aca5bdca32e7a8d6224318e72_Rokh-Medium.woff") format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+
+@font-face {font-display:swap;
+	font-family: "star";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-335cbf607c55aa32fd06809d1f9eb127_star.woff") format("woff"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6b78a34cea321205e5ee8a1b44b41a5e_star.ttf") format("truetype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e73470010dd7998b280b4066e39e9ec_star.svg#star") format("svg");
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-family: "WooCommerce";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//oceanbox.ir/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix") format("embedded-opentype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-dc54d4f864988c37c703a607320e805a_WooCommerce.woff") format("woff"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-a30cf8235b50f8a2dcc2ade71eebaa15_WooCommerce.ttf") format("truetype"), url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/plugins/woocommerce/assets/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-f64b7f33060e1af8edaed146d8bb072e_WooCommerce.svg#WooCommerce") format("svg");
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/themes/woodmart/fonts/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1714ad61469de2c1cc2776e5e0eb7394_woodmart-font-1-400.woff2") format("woff2");
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-b0af436aef635aaaeb712f39585d9188_Rokh-ExtraBold.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6691d431ff46656da4d11eb5b7f129fe_Rokh-ExtraBold.woff") format("woff");
+	font-weight: 800;
+	font-style: normal;
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-e52540d6ee9b45b6aeab5cbe13a1ee2d_Rokh-Normal.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-1151908e811cdfc5794674fe947d8709_Rokh-Normal.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-3e78c7278f2c896064d6839bdaa2d39f_Rokh-SemiBold.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-6ea4a23fc1e51ba16c2febb5ebb4939d_Rokh-SemiBold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {font-display:swap;
+	font-family: "rokhfanum";
+	src: url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-5e557ec1ea055f7512c27e4260f16046_Rokh-Medium.woff2") format("woff2"), 
+url("https://oceanbox.ir/wp-content/uploads/al_opt_content/FONT/oceanbox.ir/./wp-content/uploads/2025/09/68d6801946fa5c7db3092459/68d6801946fa5c7db3092459-fceac76aca5bdca32e7a8d6224318e72_Rokh-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+; unicode-range: U+0100-05FF, U+0700-074F, U+0780-086F, U+0900-1FFF, U+2070-DFFF, U+F900-FB4F, U+FE00-FE6F, U+FF00-FFFF, U+10000-10EBF, U+10F00-1EDFF, U+1EF00-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}

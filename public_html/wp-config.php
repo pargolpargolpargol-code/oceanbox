@@ -25,7 +25,7 @@ define( 'WP2FA_ENCRYPT_KEY', 'cEKyVr+HRmY3Ra2Zc209bg==' );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_CACHE', true);
+define('WP_CACHE', true ); // Added by AirLift
 define( 'WPCACHEHOME', '/home/oceanboxir/public_html/wp-content/plugins/wp-super-cache/' );
 define( 'DB_NAME', 'oceanboxir_wp_qaivi' );
 

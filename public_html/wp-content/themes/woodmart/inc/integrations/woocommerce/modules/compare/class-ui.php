@@ -33,7 +33,7 @@ class Ui extends Singleton {
 	}
 
 	/**
-	 * Add to compare button.
+	 * افزودن به لیست مقایسه button.
 	 *
 	 * @codeCoverageIgnore
 	 * @since 1.0.0
@@ -55,14 +55,14 @@ class Ui extends Singleton {
 		?>
 		<div class="wd-compare-btn product-compare-button <?php echo esc_attr( $classes ); ?>">
 			<a href="<?php echo esc_url( $url ); ?>" data-id="<?php echo esc_attr( $product_id ); ?>" rel="nofollow" data-added-text="<?php esc_attr_e( 'Compare products', 'woodmart' ); ?>">
-				<span><?php esc_html_e( 'Add to compare', 'woodmart' ); ?></span>
+				<span><?php esc_html_e( 'افزودن به لیست مقایسه', 'woodmart' ); ?></span>
 			</a>
 		</div>
 		<?php
 	}
 
 	/**
-	 * Add to compare button on sticky add to cart.
+	 * افزودن به لیست مقایسه button on sticky add to cart.
 	 *
 	 * @codeCoverageIgnore
 	 * @return void
@@ -75,7 +75,7 @@ class Ui extends Singleton {
 	}
 
 	/**
-	 * Add to compare button on single product.
+	 * افزودن به لیست مقایسه button on single product.
 	 *
 	 * @codeCoverageIgnore
 	 * @since 1.0.0
